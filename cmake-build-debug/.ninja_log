@@ -1,0 +1,8 @@
+# ninja log v5
+2	1967	7348954302403186	build.ninja	888ba224c262c557
+22	607	7345476768233304	CMakeFiles/School.dir/main.cpp.obj	2482b2c68ee32403
+13	1215	7345479968483332	CMakeFiles/School.dir/Teacher.cpp.obj	f3a1dfc1d9e28edb
+33	1015	7345476532182491	CMakeFiles/School.dir/main.obj	ccac7ba353831807
+22	1184	7345479968639635	CMakeFiles/School.dir/Student.cpp.obj	b5b8ba906143a797
+10	867	7345479290514005	CMakeFiles/School.dir/Person.cpp.obj	32f245e5ef253384
+1223	3640	7345479993870318	School.exe	82adee18f7a7dfe2
